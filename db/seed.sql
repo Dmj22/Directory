@@ -31,7 +31,4 @@ INSERT INTO employee (id, first_name, last_name, role_id, manager_id)
      (7,"Victor","Waters",7,3),
      (8,"Kelly","Hood",8,3),
      (9,"Terry","James",9,4),
-     (10,"Rose","Ebony",10,4),
-     (11,"Tylen","Wills",1,null),
-     (12,"Marquis","Cider",4,null),
-     (13,"Dave","Right",6,null);
+     (10,"Rose","Ebony",10,4);
